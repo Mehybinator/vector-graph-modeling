@@ -65,7 +65,7 @@ This Also Means That You Can Use Your Own Documents File In The Style Of data.cs
 ## Contact
 Mehran Arkak - mehran.arkak@protonmail.com
 
-[Colorama]: https://img.shields.io/badge/Colorama--Learn-EEEEEE?style=for-the-badge&logo=python
+[Colorama]: https://img.shields.io/badge/Colorama-EEEEEE?style=for-the-badge&logo=python
 [Python]: https://img.shields.io/badge/Python-EEEEEE?style=for-the-badge&logo=python
 [Pandas]: https://img.shields.io/badge/Pandas-EEEEEE?style=for-the-badge&logo=python
 [Nltk]: https://img.shields.io/badge/Nltk-EEEEEE?style=for-the-badge&logo=python
