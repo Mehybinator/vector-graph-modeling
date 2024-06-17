@@ -32,9 +32,14 @@ Activate The Env by Running:
 env\Scripts\activate
 ```
 
-And Install Requirements:
+Install Requirements:
 ```sh
 python -m pip install -r requirement.txt
+```
+
+And Run The Following:
+```sh
+python data_to_matrix.py
 ```
 
 <!-- USAGE EXAMPLES -->
@@ -58,7 +63,6 @@ python data_to_matrix.py
 ```
 
 This Will Generate A matrix.csv File That main.py Can Use To Search.
-
 This Also Means That You Can Use Your Own Documents File In The Style Of data.csv An Use Your Own Dataset.
 
 <!-- CONTACT -->

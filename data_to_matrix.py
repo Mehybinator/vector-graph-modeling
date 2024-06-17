@@ -1,7 +1,7 @@
-import os
-import csv
-import nltk
 import pandas as pd
+import nltk
+import csv
+import os
 
 nltk.download('punkt')
 
